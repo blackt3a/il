@@ -92,22 +92,22 @@ class psk_rules:
 
 
     def parse_rules(self):
-        if self._jr["name"]["select"] is True:
+        if self._jr["name"]["select"] is True and self._jp["name"] != "" :
             self._log.info("name_selected")
             self._total_list+= token_name(self._jp["name"],self._jr["name"]).get_token()
 
-        if self._jr["phone"]["select"] is True:
+        if self._jr["phone"]["select"] is True and self._jp["phone"] != "" :
             self._log.info("tel_selected")
             self._total_list+= token_tel(self._jp["phone"],self._jr["phone"]).get_token()
 
 
-        if self._jr["birth"]["select"] is True:
+        if self._jr["birth"]["select"] is True and self._jp["birth"] != "":
             self._log.info("birth_selected")
             self._total_list+= token_birth_day(self._jp["birth"],self._jr["birth"]).get_token()
 
 
 
-        if self._jr["mail"]["select"] is True:
+        if self._jr["mail"]["select"] is True and self._jp["mail"] != "":
             self._log.info("mail selected")
             pass
             #self._total_list+= token_email(self._jp["mail"],self._jr["mail"]).get_token()
@@ -165,7 +165,7 @@ def main(rules,person_info):
 
     timestamp = time.strftime("%Y%m%d%H%M%S",localT)
 
-    rules = psk_rules(rules_file=rules,person_file=person_info,save_file=os.getcwd()+"/out/"+timestamp+".txt")
+    rules = psk_rules(rules_file=rules,person_file=person_info,save_file="/opt/tools/il/out/"+timestamp+".txt")
     rules._result.get_result()
     
 
