@@ -1,0 +1,67 @@
+
+{
+    "name": {
+	    "select":false,
+	    "aka":false,
+	    "part":true,
+	    "full":false
+    },
+
+    "phone": {
+	    "select":false,
+        "total":"true",
+
+	    "slice_len":{
+            "select":true,
+		    "max":3,
+		    "min":3
+	    }
+    },
+
+
+    "addr":{
+        "select":false
+    },
+
+    "birth":{
+	"select":true,
+
+        "separat":{
+            "Y":true,
+            "M":true,
+            "D":true
+        },
+
+	    "combin":{
+	    	"Y_M":true,
+		    "M_D":false,
+		    "Y_M_D":true
+	    }
+    },
+
+    "mail": {
+        "select":false
+    },
+
+    "slang":{
+        "select":false
+    },
+
+    "other":{
+        "select":false
+    },
+
+    "extra_dic":{
+        "select":false
+    },
+
+    "total_len":{
+	    "select":false,
+	    "range":{
+	    	"max":20,
+		    "min":6
+	    }
+    }
+}
+
+
