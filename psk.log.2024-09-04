@@ -1,0 +1,61 @@
+2024-09-04 03:20:02,516 - psk - INFO - loading =====>rules/rules1.json
+2024-09-04 03:20:02,516 - psk - INFO - loading =====>person.json
+2024-09-04 03:20:02,516 - psk - INFO - name_selected
+2024-09-04 03:20:02,517 - psk - INFO - tel_selected
+2024-09-04 03:20:02,517 - psk - INFO - birth_selected
+2024-09-04 03:20:02,517 - psk - INFO - parse finished
+2024-09-04 03:20:30,275 - psk - INFO - loading =====>rules/rules1.json
+2024-09-04 03:20:30,276 - psk - INFO - loading =====>person.json
+2024-09-04 03:20:30,276 - psk - INFO - name_selected
+2024-09-04 03:20:30,276 - psk - INFO - tel_selected
+2024-09-04 03:20:30,276 - psk - INFO - birth_selected
+2024-09-04 03:20:30,276 - psk - INFO - parse finished
+2024-09-04 03:21:10,963 - psk - INFO - loading =====>rules/rules1.json
+2024-09-04 03:21:10,963 - psk - INFO - loading =====>person.json
+2024-09-04 03:21:10,963 - psk - INFO - name_selected
+2024-09-04 03:21:10,963 - psk - INFO - tel_selected
+2024-09-04 03:21:10,963 - psk - INFO - birth_selected
+2024-09-04 03:21:10,963 - psk - INFO - parse finished
+2024-09-04 03:21:10,963 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '757', '495', '682', '2007', '11', '07']
+2024-09-04 03:22:28,418 - psk - INFO - loading =====>rules/rules1.json
+2024-09-04 03:22:28,418 - psk - INFO - loading =====>person.json
+2024-09-04 03:22:28,419 - psk - INFO - name_selected
+2024-09-04 03:22:28,419 - psk - INFO - tel_selected
+2024-09-04 03:22:28,419 - psk - INFO - birth_selected
+2024-09-04 03:22:28,419 - psk - INFO - parse finished
+2024-09-04 03:22:28,419 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '757', '495', '682', '2007', '11', '07']
+2024-09-04 03:26:40,631 - psk - INFO - loading =====>rules/rules1.json
+2024-09-04 03:26:40,631 - psk - INFO - loading =====>person.json
+2024-09-04 03:26:40,631 - psk - INFO - name_selected
+2024-09-04 03:26:40,631 - psk - INFO - tel_selected
+2024-09-04 03:26:40,632 - psk - INFO - birth_selected
+2024-09-04 03:26:40,632 - psk - INFO - parse finished
+2024-09-04 03:26:40,632 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '757', '495', '682', '2007', '11', '07']
+2024-09-04 03:27:50,104 - psk - INFO - loading =====>rules/rules1.json
+2024-09-04 03:27:50,104 - psk - INFO - loading =====>person.json
+2024-09-04 03:27:50,105 - psk - INFO - name_selected
+2024-09-04 03:27:50,105 - psk - INFO - tel_selected
+2024-09-04 03:27:50,105 - psk - INFO - birth_selected
+2024-09-04 03:27:50,105 - psk - INFO - parse finished
+2024-09-04 03:27:50,105 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '757', '495', '682', '2007', '11', '07']
+2024-09-04 03:28:07,626 - psk - INFO - loading =====>rules/rules1.json
+2024-09-04 03:28:07,626 - psk - INFO - loading =====>person.json
+2024-09-04 03:28:07,626 - psk - INFO - name_selected
+2024-09-04 03:28:07,626 - psk - INFO - tel_selected
+2024-09-04 03:28:07,626 - psk - INFO - birth_selected
+2024-09-04 03:28:07,626 - psk - INFO - parse finished
+2024-09-04 03:28:07,626 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '757', '495', '682', '2007', '11', '07']
+2024-09-04 03:29:22,627 - psk - INFO - loading =====>rules/rules1.json
+2024-09-04 03:29:22,627 - psk - INFO - loading =====>person.json
+2024-09-04 03:29:22,627 - psk - INFO - name_selected
+2024-09-04 03:29:22,627 - psk - INFO - tel_selected
+2024-09-04 03:29:22,627 - psk - INFO - birth_selected
+2024-09-04 03:29:22,627 - psk - INFO - parse finished
+2024-09-04 03:29:22,627 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '757', '495', '682', '2007', '11', '07']
+2024-09-04 03:32:34,831 - psk - INFO - loading =====>rules/rules1.json
+2024-09-04 03:32:34,831 - psk - INFO - loading =====>person.json
+2024-09-04 03:32:34,831 - psk - INFO - name_selected
+2024-09-04 03:32:34,832 - psk - INFO - tel_selected
+2024-09-04 03:32:34,832 - psk - INFO - birth_selected
+2024-09-04 03:32:34,832 - psk - INFO - parse finished
+2024-09-04 03:32:34,832 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '757', '495', '682', '2007', '11', '07']

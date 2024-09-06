@@ -113,10 +113,36 @@ class psk_rules:
             #self._total_list+= token_email(self._jp["mail"],self._jr["mail"]).get_token()
 
 
-        if self._jr["extra_dic"]["select"] is True and self._extra is not None:
+        if self._jr["extra_dic"]["select"] is True and self._jp["extra_dic"] is not None:
             self._log.info("extra_dic selected")
             pass
             #self._total_list+= token_extra(self._extra).get_token()
+
+
+        if self._jr["place"]["select"] is True and self._jp["place"] is not None:
+            pass
+
+        if self._jr["addr"]["select"] is True and self._jp["addr"] is not None:
+            pass
+
+        if self._jr["door"]["select"] is True and self._jp["door"] is not None:
+            pass
+
+
+
+        if self._jr["slang"]["select"] is True and self._jp["slang"] is not None:
+            pass
+
+        if self._jr["random"]["select"] is True:
+            pass
+
+        if self._jr["other"]["select"] is True and self._jp["other"] is not None:
+            pass
+
+
+
+
+
 
 
         self._log.info("parse finished")
@@ -143,8 +169,8 @@ class psk_rules:
             min_len = 6
             max_len = 20
             if self._jr["total_len"]["select"] is True:
-                min_len = self._jr["total_len"]["min"]
-                max_len = self._jr["total_len"]["max"]
+                min_len = self._jr["total_len"]["range"]["min"]
+                max_len = self._jr["total_len"]["range"]["max"]
                 
             for r in range(1, len(self._total_list) + 1):
                 

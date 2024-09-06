@@ -1,0 +1,79 @@
+{
+    "name": {
+        "select": true,
+        "aka": false,
+        "part": true,
+        "full": false
+    },
+    "phone": {
+        "select": false,
+        "total": "False",
+        "slice_len": {
+            "select": false,
+            "min": 2,
+            "max": 4
+        }
+    },
+    "place": {
+        "select": true,
+        "aka": false,
+        "part": false,
+        "full": true
+    },
+    "addr": {
+        "select": false,
+        "aka": true,
+        "part": false,
+        "full": false
+    },
+    "door": {
+        "select": true,
+        "aka": false,
+        "part": true,
+        "full": true
+    },
+    "birth": {
+        "select": false,
+        "separat": {
+            "Y": false,
+            "M": false,
+            "D": false
+        },
+        "combin": {
+            "Y_M": false,
+            "M_D": false,
+            "Y_M_D": true
+        }
+    },
+    "mail": {
+        "select": false,
+        "name": true,
+        "domain": true
+    },
+    "slang": {
+        "select": true,
+        "aka": true,
+        "part": true,
+        "full": true
+    },
+    "random": {
+        "select": false,
+        "len": {
+            "min": 2,
+            "max": 6
+        }
+    },
+    "other": {
+        "select": true
+    },
+    "extra_dic": {
+        "select": true
+    },
+    "total_len": {
+        "select": true,
+        "range": {
+            "max": 6,
+            "min": 12
+        }
+    }
+}
