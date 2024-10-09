@@ -50,7 +50,6 @@ class token_birth_day:
 
 
     def M_D(self):
-        #“1101” 
         self._token_list.append(self._bir_dic["month"]+self._bir_dic["day"])
 
 

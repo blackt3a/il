@@ -1,0 +1,45 @@
+2024-09-06 10:01:06,944 - psk - INFO - loading =====>gr/rules/NAME_part_full-ADDR_aka-BIRTH_m_d-MAIL_name-RI8_10I-O-LI36_32I.json
+2024-09-06 10:01:06,944 - psk - INFO - loading =====>person.json
+2024-09-06 10:01:06,944 - psk - INFO - name_selected
+2024-09-06 10:01:06,944 - psk - INFO - birth_selected
+2024-09-06 10:01:06,944 - psk - INFO - mail selected
+2024-09-06 10:03:37,357 - psk - INFO - loading =====>gr/rules/NAME_part_full-ADDR_aka-BIRTH_m_d-MAIL_name-RI8_10I-O-LI36_32I.json
+2024-09-06 10:03:37,358 - psk - INFO - loading =====>person.json
+2024-09-06 10:03:37,358 - psk - INFO - name_selected
+2024-09-06 10:03:37,358 - psk - INFO - birth_selected
+2024-09-06 10:03:37,358 - psk - INFO - mail selected
+2024-09-06 10:03:37,358 - psk - INFO - parse finished
+2024-09-06 10:03:37,358 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '11', '07']
+2024-09-06 10:05:41,108 - psk - INFO - loading =====>gr/rules/NAME_part_full-ADDR_aka-BIRTH_m_d-MAIL_name-RI8_10I-O-LI36_32I.json
+2024-09-06 10:05:41,108 - psk - INFO - loading =====>person.json
+2024-09-06 10:05:41,109 - psk - INFO - name_selected
+2024-09-06 10:05:41,109 - psk - INFO - birth_selected
+2024-09-06 10:05:41,109 - psk - INFO - mail selected
+2024-09-06 10:05:41,109 - psk - INFO - parse finished
+2024-09-06 10:05:41,109 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '11', '07']
+2024-09-06 10:06:14,780 - psk - INFO - loading =====>gr/rules/NAME_part_full-ADDR_aka-BIRTH_m_d-MAIL_name-RI8_10I-O-LI36_32I.json
+2024-09-06 10:06:14,780 - psk - INFO - loading =====>person.json
+2024-09-06 10:06:14,780 - psk - INFO - name_selected
+2024-09-06 10:06:14,780 - psk - INFO - birth_selected
+2024-09-06 10:06:14,780 - psk - INFO - mail selected
+2024-09-06 10:06:14,780 - psk - INFO - parse finished
+2024-09-06 10:06:14,780 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '11', '07']
+2024-09-06 10:08:11,486 - psk - INFO - loading =====>gr/rules/NAME_part_full-ADDR_aka-BIRTH_m_d-MAIL_name-RI8_10I-O-LI36_32I.json
+2024-09-06 10:08:11,486 - psk - INFO - loading =====>person.json
+2024-09-06 10:08:11,486 - psk - INFO - name_selected
+2024-09-06 10:08:11,486 - psk - INFO - birth_selected
+2024-09-06 10:08:11,486 - psk - INFO - mail selected
+2024-09-06 10:08:11,486 - psk - INFO - parse finished
+2024-09-06 10:08:11,486 - psk - INFO - token_list====>['stephen', 'wang', 'stephenwang', '11', '07']
+2024-09-06 10:14:38,872 - psk - INFO - loading =====>gr/rules/PLACE_part_full-DOOR_part_full-BIRTH_y_ym_md-MAIL_name-SLANG_aka_full-O.json
+2024-09-06 10:14:38,872 - psk - INFO - loading =====>person.json
+2024-09-06 10:14:38,872 - psk - INFO - birth_selected
+2024-09-06 10:14:38,872 - psk - INFO - mail selected
+2024-09-06 10:14:38,872 - psk - INFO - parse finished
+2024-09-06 10:14:38,872 - psk - INFO - token_list====>['200711', '0711', '1107', '2007']
+2024-09-06 10:15:12,183 - psk - INFO - loading =====>gr/rules/PLACE_part_full-DOOR_part_full-BIRTH_y_ym_md-MAIL_name-SLANG_aka_full-O.json
+2024-09-06 10:15:12,183 - psk - INFO - loading =====>person.json
+2024-09-06 10:15:12,183 - psk - INFO - birth_selected
+2024-09-06 10:15:12,183 - psk - INFO - mail selected
+2024-09-06 10:15:12,183 - psk - INFO - parse finished
+2024-09-06 10:15:12,184 - psk - INFO - token_list====>['200711', '0711', '1107', '2007']

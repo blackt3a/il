@@ -12,7 +12,7 @@ def generate_random_json():
         },
         "phone": {
             "select": random.choice([True, False]),
-            "total": str(random.choice([True, False])),
+            "total": random.choice([True, False]),
             "slice_len": {
                 "select": random.choice([True, False]),
                 "min": random.randint(2, 3),

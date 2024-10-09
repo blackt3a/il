@@ -9,7 +9,7 @@
 
     "phone": {
 	    "select":true,
-	    	"total":"true",
+	    	"total":true,
 	    	"slice_len":{
 		    "select":true,
 		    "min":3,

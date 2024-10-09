@@ -1,1 +1,108 @@
-1,Mohan  Bansal,Manager,ZO BHOPAL,7389949987,mohanbansal@unionbankofindia.bank 2,Satish Babau  Vaddi,Senior Manager,RO - HYDERABAD KOTI,7093199840,rmd.hyderabadkoti@unionbankofindia.bank 3,Naseeruddin  Shaik,Chief Manager,CO ANNEX HYDERABAD,9847490036,naseer1606@unionbankofindia.bank 4,Rudra  Prasad,Senior Manager,ZAO VISAKHAPATNAM,9000899566,cbs-ssivisakhapatnam@unionbankofindia.bank 5,Y.Srikanth  Kumar,ASST. GENERAL MANAGER,CR Cell HYDERABAD,7674838888,yskumar@unionbankofindia.bank 6,Chatles R  Collins,Senior Manager (Branch Head),RAJARAJESHWARI NAGAR MAIN,9488181763,seeyesias@gmail.com 7,Devash Kumar  Bajpai,Chief Manager (ZCO),ZO NEW DELHI,8422918593,deveshbajpai@unionbankofindia.bank 8,Sudesh Cheniramji  Patwardhan,Senior Manager,STATION ROAD AKOLA,9626477264,sudeshcp2011@gmail.com 9,Abhishek  Soni,Chief Manager,RO - INDORE,9329588990,abhisheks.soni@unionbankofindia.bank 10,K.K.  Shyji,Senior Manager (Branch Head),WEST HILL,9986787340,kkshyji@unionbankofindia.bank 11,Vr  Jinu,Manager (Branch Head),MEENAKULAM,9947219437,jinu.vr@rediffmail.com 12,B.M.  Hareez,Senior Manager (Branch Head),PATHANAPURAM,9972903636,bmhareez@unionbankofindia.bank 13,Nischinta Kumar  Modi,Senior Manager,CENTRAL OFFICE,9619667782,nischintmodi@unionbankofindia.bank 14,Sarang  Dhande,Senior Manager,RO - JUNAGADH,7574870044,sarang.dhande@unionbankofindia.bank 15,Nitin  Bhawsar,Chief Manager,Staff College -  Bengaluru,8696905556,nitinbhawsar@unionbankofindia.bank 16,Seema  P.,Asst Manager,SAFDARJANG ENCLAVE - NEW DELHI,9650066799,seemasnp@gmail.com 17,Suja  Nair,Manager (Branch Head),SHERTALLAY,9947728185,sujamurali84@gmail.com 18,Muraleekrishnan  K.,Chief Manager (Branch Head),MARINE DRIVE - COCHIN,8762889430,kmuraleekrishnan@unionbankofindia.bank 19,Seema  Samuel,Senior Manager (Branch Head),WILSON GARDEN,9400230101,seemagibu@yahoo.com 20,Binit  Bikash,Senior Manager (Branch Head),Banka,9304820640,binitbikash@rediffmail.com 21,Deepak  Khare,Senior Manager (RCO),RO - HYDERABAD KOTI,9989308281,deepakkhare@unionbankofindia.bank 22,Amit  Kumar,Senior Manager,DEORIA,6203898931,amitmfpcpr@gmail.com 23,R.  Biju,Manager (Branch Head),KAKKABBE,9847535461,cbsperumbavoor@unionbankofindia.bank 24,Amit  Vikram,Senior Manager (Branch Head),PATNA,9896121714,amitvikram1986@gmail.com 25,Niteesh  Kumar,Chief Manager,CENTRAL OFFICE,8210263574,niteeshkumar@unionbankofindia.bank 26,Dhiraj  Kumar,Chief Manager (Branch Head),SANTACRUZ (WEST) - MUMBAI,9910833918,dhirajkumar@unionbankofindia.bank 27,Bijisha P  K.,Senior Manager (Branch Head),PANDAVAPURA,9847211989,bijisharam@gmail.com 28,M.D.  Ajmal,Senior Manager (Branch Head),BIKRAMGANJ,9487444278,majmal@unionbankofindia.bank 29,Manish Kumar Chandra  Gupta,Senior Manager(BRM),RO - GUWAHATI,7991189015,mkpgupta@unionbankofindia.bank 30,Manoj Kumar  Rathore,Asst Manager (Marketing),"RLP BHILAI, RO RAIPUR",8226012399,manojrathore@unionbankofindia.bank 31,Sumit Kumar  Tiwari,Chief Manager,SAM BRANCH-MUMBAI,7045811220,sumitkumartiwari@unionbankofindia.bank 32,Deepak Kumar  Dubey,Senior Manager (Branch Head),AMBAGAON - ROURKELA,8986864251,dkdubey@unionbankofindia.bank 33,Prem Ranjan  Kumar,Chief Manager (Branch Head),BATHINDA MAIN BRANCH,9310032316,premrkumar@unionbankofindia.bank 34,Nitin  Negi,ASST. GENERAL MANAGER,ZO CHANDIGARH,8979606321,nitinnegi@unionbankfofindia.bank 35,Sandeep  Sharma,Single Window Operator - B,GWALIOR PHALKA BAZAR,9329329307,sandeepsharmaubi86@gmail.com 36,Om Praksh  Kumar,Senior Manager,RLP CHANDAULI,8887669613,omprakash.kumar@unionbankofindia.bank 37,Swati  Janoria,Chief Manager,CENTRAL OFFICE,9425605389,swatijanoria@unionbankofindia.bank 38,Swagatika  Rath,Senior Manager (RCO),RO - CUTTACK,9874027888,swagatikarath@unionbankofindia.bank 39,Roma  Kishore,Senior Manager,RO - BANGALORE SOUTH,8238010488,romakishore@unionbankofindia.bank 40,Rajib  Chaudhary,Manager (Marketing),RO - GREATER KOLKATA,9903353752,rajib1832007@yahoo.co.in 41,Mayank  Sagar,Senior Manager (Branch Head),INDORE - SERVICE BRANCH,8226003020,mayanksagar@unionbankofindia.bank 42,Ranjan  Kumar,Senior Manager (Branch Head),"SOHSARAI BRANCH,BIHARSHARIF",7875500446,ranjanmkumar@unionbankofindia.bank 43,Manish  Shankar,Manager (Marketing),RLP BHAGALPUR,9379299240,manish800001@gmail.com 44,Amit  Kumar,Senior Manager-Dy. Branch Head,BISHESHWARGANJ,7739525778,amitksinha@unionbankofindia.bank 45,Pawan  Kumar,Senior Manager,PATNA,9835623573,pawankumar.kumar640@gmail.com 46,Ritesh Kumar  Raman,Manager,ZO CHENNAI,7420019927,ritesh.raman@unionbankofindia.bank 47,Ashutosh  Angrish,DRH - Business Development,RO - JALANDHAR,7830050099,cbsbehat@unionbankofindia.bank 48,Santosh  Kumar,Senior Manager (Branch Head),SERVICE BRANCH - REWA,9454129705,san1976tosh@gmail.com 49,Ashish  Kumar,Asst Manager-Dy. Branch Head,FARIDPUR,7870296005,ashishkumar425411@gmail.com 50,Ashish Kumar  Patel,Chief Manager(RLP Incharge),RLP BHOPAL CENTRAL,9918301677,ashishkpatel@unionbankofindia.bank 51,Meena  Rawat,Senior Manager-Dy. Branch Head,RAJAJINAGAR- DR RAJ KUMAR ROAD,8884129252,meena.rawat1@gmail.com 52,Ashish  Kumar,Senior Manager(RM),RO - RAIPUR,8144092216,asheeshkumar@unionbankofindia.bank 53,Dhirendra Kumar  Ram,Chief Manager,CENTRAL OFFICE,7030165252,rdkumar@unionbankofindia.bank 54,Himanshu B  Patkar,Senior Manager,CoE Sales and Marketing Bhopal,8226012266,hpatkar@unionbankofindia.bank 55,Abhinav  Khajuria,Senior Manager (Branch Head),BILGA (DIST. JULLUNDER),7006429166,akhajuriya@unionbankofindia.bank 56,Dhiraj Chandra  Dhir,AGM (MLP Head),MLP DELHI NCR,7818090882,dhirajcdhir@unionbankofindia.bank 57,Nilmani  Prasad,Senior Manager,CENTRAL OFFICE,7762084111,nilmaniprasad@unionbankofindia.bank 58,Ratnesh Kumar  Singh,DRH - Business Operations,RO - AYODHYA,9569667575,skr483473@gmail.com 59,Gayatri  Acharya,Chief Manager,RO - SRIKAKULAM,9078082082,gacharya@unionbankofindia.bank 60,Sumeet  Joshi,Senior Manager (Branch Head),BHAMASHAH MANDI,9649900132,sumeetjoshi@unionbankofindia.bank 61,Karthikeyan  N.,Senior Manager (Branch Head),BANGALORE-SARAKKI LAYOUT,9500763875,nkarthikeyan@unionbankofindia.bank 62,P.  Subbiah,Senior Manager (Branch Head),PALAYAMKOTTAI-BRANCH,9445948355,vetriind@gmail.com 63,Maruthy  Yellapragada,Chief Manager(RLP Incharge),RLP 2 SECUNDERABAD,9963335664,ymaruthy@unionbankofindia.bank 64,Shreekanta  Panigrahi,Chief Manager,ZO BHUBANESHWAR,7750037923,spanigrahi@unionbankofindia.bank 65,Sanjeev  Joshi,Senior Manager (Branch Head),HALDAUR,9760645427,click2sanjeev@gmail.com 66,Arvind Kumar  Sharma,Chief Manager,RO - UDUPI,9997464555,arvindkumar.sharma@unionbankofindia.bank 67,Ranjit  Ranjit,Chief Manager,CoE Credit & Policy -Lucknow,9430620740,rkranjan@unionbankofindia.bank 68,Vijender  Singh,Senior Manager (Branch Head),HISSAR,9416440844,vijenderpilania@gmail.com 69,Sandeep Salil  Kullu,Senior Manager (Branch Head),CHAKRADHARPUR,9431701725,sskullu@unionbankofindia.bank 70,Navnish  Kamboj,Chief Manager,RO - KARNAL,6280073817,nkamboj@unionbankofindia.bank 71,Sachin  Trivedi,Senior Manager,RO - LUCKNOW,9918702091,sachintrivedi@unionbankofindia.bank 72,Jnanendra Kumar  Mahakhuda,Senior Manager,RLP BHUBANESHWAR,7894403079,jmahakuda@gmail.com 73,Anjali  Kumari,Manager (Marketing),RO - PATNA,9801385696,anjalikumari@unionbankofindia.bank 74,Makrand  Fadnis,Chief Manager,RO - AMRAVATI,9987628591,makrandfadnis@unionbankofindia.bank 75,Sanjay Kumar  Singh,Chief Manager (Branch Head),GREATER NOIDA,9650125560,sanjay.singhunion@gmail.com 76,Prabhat Kumar  Ambastha,Chief Manager,CENTRAL OFFICE,7400162950,prabhat.ambastha@unionbankofindia.bank 77,Manish  Kumar,Senior Manager (Branch Head),Kadamkuan- Patna,7903506477,manishsingh490@gmail.com 78,Amit  Kumar,DRH - Business Development,RO - AYODHYA,7007630016,amitsri.ubi@gmail.com 79,Krishna Sharan  Jha,Manager,RO - RANCHI,9955187300,krishna3280@yahoo.co.in 80,Surender  Saharan,Senior Manager,ZAO JAIPUR,9712925132,449827@unionbankofindia.bank 81,K.J.  Rejeesh,Manager (Branch Head),NILAMBUR,7760051765,rejeeshkj@gmail.com 82,Swati  Nema,Senior Manager,VISHRANTWADI -PUNE,9421738009,swatinema@unionbankofindia.bank 83,Sushmit  Roy,SM (BH-Currency Chest),CURRENCY CHEST C G ROAD AHM,9765020025,sushmitroy@unionbankofindia.bank 84,Manjit Singh  Dang,Senior Manager(RM),RO - AGRA,8859017700,msdang@unionbankofindia.bank 85,Ajit Kumar  Sharma,Senior Manager,RO - GUNTUR,8840676923,ajitksharma@unionbankofindia.bank 86,Preeti  Chavan,Chief Manager,ZO PUNE,9768769640,punecamp@unionbankofindia.bank 87,Sowmya  Sridhar,GM-Dy. ZONAL HEAD,ZO MUMBAI,9869771105,sowmyasridhar@unionbankofindia.bank 88,Vikas Shyam  Gupta,Chief Manager (Branch Head),"GURUKUL ROAD, BIJAPUR",9999743755,VIKAS.GUPTA9@YAHOO.COM 89,Ranjan  Kumar,Senior Manager,CO ANNEX MANGALORE,9004085277,ranjanskumar@unionbankofindia.bank 90,Chandramani  Ballabh,Chief Manager (Branch Head),HOWRAH,9771944402,cballabh@unionbankofindia.bank 91,Gulab Singh Sikarwar  Sikarwar,Manager-Dy. Branch Head,RAJKOT (PBB),9424457920,gssikarwar60@gmail.com 92,Kumar  Harshman,Senior Manager (ZCO),ZO RANCHI,9102404190,kumarharshman@gmail.com 93,Binty Kumari  Choudhary,Senior Manager (Branch Head),JAYANAGAR MAIN,9845763147,binty42@gmail.com 94,Sanjeev  Kumar,Senior Manager(RM),RO - BHOPAL CENTRAL,7389949918,sanjeevnkumar@unionbankofindia.bank 95,Nanda  Somkuwar,Chief Manager,CENTRAL OFFICE,9029396292,nanda@unionbankofindia.bank 96,Pabitra  Behera,SENIOR MANAGER(RCoC),RO - RAYAGADA,8917468968,pabitra1402@gmail.com 97,Vijaykumar Shrichand  Ahuja,Senior Manager,ZO MUMBAI,9769977131,vsahuja@unionbankofindia.bank 98,Kanchan  Chakrabarty,Manager,BURDWAN PRABIRHATA,8016098539,kanchan.chakroborty2009@gmail.com 99,Sumit  Srivastava,GM - Zonal Head,ZO LUCKNOW,9867863754,sumitsrivastava@unionbankofindia.bank 100,Sandip  Biswas,Senior Manager,RO - GREATER KOLKATA,9918301493,sandip.biswas@unionbankofindia.bank 101,Ashish Kumar  Debta,Chief Manager(RLP Incharge),RLP MEHSANA,9918672874,pmo.varanasi@unionbankofindia.bank 102,Akhilesh  Kumar,Senior Manager (Branch Head),NOIDA-SUMITRA HOSPITAL,9555900195,akhilkumar0086@gmail.com 103,Uday Bhaskar  Das,SM(Risk Management),CENTRAL OFFICE,9987018592,udaybdas@unionbankofindia.bank 104,Harin Kumar  Jani,Chief Manager,RO - KOLHAPUR,8008705091,hkjani@unionbankofindia.bank 105,Rohit  Gupta,Senior Manager,PATEL NAGAR - NEW DELHI,9918900263,rohitgupta@unionbankofindia.bank 106,Kanchan  Modak,Asst Manager,PUNE UMFB,9869067636,vaish28011983@gmail.com 107,Roopesh  Madhwani,Chief Manager,CR Cell CHANDIGARH,9888478959,rmadhwani@unionbankofindia.bank 108,Mahesh Chandra  Pant,Senior Manager (Branch Head),SHYAMPUR,9909939297,mpant12345@gmail.com
+Mohan  Bansal,Manager,ZO BHOPAL,7389949987,mohanbansal@unionbankofindia.bank
+Satish Babau  Vaddi,Senior Manager,RO - HYDERABAD KOTI,7093199840,rmd.hyderabadkoti@unionbankofindia.bank
+Naseeruddin  Shaik,Chief Manager,CO ANNEX HYDERABAD,9847490036,naseer1606@unionbankofindia.bank
+Rudra  Prasad,Senior Manager,ZAO VISAKHAPATNAM,9000899566,cbs-ssivisakhapatnam@unionbankofindia.bank
+Y.Srikanth  Kumar,ASST. GENERAL MANAGER,CR Cell HYDERABAD,7674838888,yskumar@unionbankofindia.bank
+Chatles R  Collins,Senior Manager (Branch Head),RAJARAJESHWARI NAGAR MAIN,9488181763,seeyesias@gmail.com
+Devash Kumar  Bajpai,Chief Manager (ZCO),ZO NEW DELHI,8422918593,deveshbajpai@unionbankofindia.bank
+Sudesh Cheniramji  Patwardhan,Senior Manager,STATION ROAD AKOLA,9626477264,sudeshcp2011@gmail.com
+Abhishek  Soni,Chief Manager,RO - INDORE,9329588990,abhisheks.soni@unionbankofindia.bank
+K.K.  Shyji,Senior Manager (Branch Head),WEST HILL,9986787340,kkshyji@unionbankofindia.bank
+Vr  Jinu,Manager (Branch Head),MEENAKULAM,9947219437,jinu.vr@rediffmail.com
+B.M.  Hareez,Senior Manager (Branch Head),PATHANAPURAM,9972903636,bmhareez@unionbankofindia.bank
+Nischinta Kumar  Modi,Senior Manager,CENTRAL OFFICE,9619667782,nischintmodi@unionbankofindia.bank
+Sarang  Dhande,Senior Manager,RO - JUNAGADH,7574870044,sarang.dhande@unionbankofindia.bank
+Nitin  Bhawsar,Chief Manager,Staff College -  Bengaluru,8696905556,nitinbhawsar@unionbankofindia.bank
+Seema  P.,Asst Manager,SAFDARJANG ENCLAVE - NEW DELHI,9650066799,seemasnp@gmail.com
+Suja  Nair,Manager (Branch Head),SHERTALLAY,9947728185,sujamurali84@gmail.com
+Muraleekrishnan  K.,Chief Manager (Branch Head),MARINE DRIVE - COCHIN,8762889430,kmuraleekrishnan@unionbankofindia.bank
+Seema  Samuel,Senior Manager (Branch Head),WILSON GARDEN,9400230101,seemagibu@yahoo.com
+Binit  Bikash,Senior Manager (Branch Head),Banka,9304820640,binitbikash@rediffmail.com
+Deepak  Khare,Senior Manager (RCO),RO - HYDERABAD KOTI,9989308281,deepakkhare@unionbankofindia.bank
+Amit  Kumar,Senior Manager,DEORIA,6203898931,amitmfpcpr@gmail.com
+R.  Biju,Manager (Branch Head),KAKKABBE,9847535461,cbsperumbavoor@unionbankofindia.bank
+Amit  Vikram,Senior Manager (Branch Head),PATNA,9896121714,amitvikram1986@gmail.com
+Niteesh  Kumar,Chief Manager,CENTRAL OFFICE,8210263574,niteeshkumar@unionbankofindia.bank
+Dhiraj  Kumar,Chief Manager (Branch Head),SANTACRUZ (WEST) - MUMBAI,9910833918,dhirajkumar@unionbankofindia.bank
+Bijisha P  K.,Senior Manager (Branch Head),PANDAVAPURA,9847211989,bijisharam@gmail.com
+M.D.  Ajmal,Senior Manager (Branch Head),BIKRAMGANJ,9487444278,majmal@unionbankofindia.bank
+Manish Kumar Chandra  Gupta,Senior Manager(BRM),RO - GUWAHATI,7991189015,mkpgupta@unionbankofindia.bank
+Manoj Kumar  Rathore,Asst Manager (Marketing),"RLP BHILAI, RO RAIPUR",8226012399,manojrathore@unionbankofindia.bank
+Sumit Kumar  Tiwari,Chief Manager,SAM BRANCH-MUMBAI,7045811220,sumitkumartiwari@unionbankofindia.bank
+Deepak Kumar  Dubey,Senior Manager (Branch Head),AMBAGAON - ROURKELA,8986864251,dkdubey@unionbankofindia.bank
+Prem Ranjan  Kumar,Chief Manager (Branch Head),BATHINDA MAIN BRANCH,9310032316,premrkumar@unionbankofindia.bank
+Nitin  Negi,ASST. GENERAL MANAGER,ZO CHANDIGARH,8979606321,nitinnegi@unionbankfofindia.bank
+Sandeep  Sharma,Single Window Operator - B,GWALIOR PHALKA BAZAR,9329329307,sandeepsharmaubi86@gmail.com
+Om Praksh  Kumar,Senior Manager,RLP CHANDAULI,8887669613,omprakash.kumar@unionbankofindia.bank
+Swati  Janoria,Chief Manager,CENTRAL OFFICE,9425605389,swatijanoria@unionbankofindia.bank
+Swagatika  Rath,Senior Manager (RCO),RO - CUTTACK,9874027888,swagatikarath@unionbankofindia.bank
+Roma  Kishore,Senior Manager,RO - BANGALORE SOUTH,8238010488,romakishore@unionbankofindia.bank
+Rajib  Chaudhary,Manager (Marketing),RO - GREATER KOLKATA,9903353752,rajib1832007@yahoo.co.in
+Mayank  Sagar,Senior Manager (Branch Head),INDORE - SERVICE BRANCH,8226003020,mayanksagar@unionbankofindia.bank
+Ranjan  Kumar,Senior Manager (Branch Head),"SOHSARAI BRANCH,BIHARSHARIF",7875500446,ranjanmkumar@unionbankofindia.bank
+Manish  Shankar,Manager (Marketing),RLP BHAGALPUR,9379299240,manish800001@gmail.com
+Amit  Kumar,Senior Manager-Dy. Branch Head,BISHESHWARGANJ,7739525778,amitksinha@unionbankofindia.bank
+Pawan  Kumar,Senior Manager,PATNA,9835623573,pawankumar.kumar640@gmail.com
+Ritesh Kumar  Raman,Manager,ZO CHENNAI,7420019927,ritesh.raman@unionbankofindia.bank
+Ashutosh  Angrish,DRH - Business Development,RO - JALANDHAR,7830050099,cbsbehat@unionbankofindia.bank
+Santosh  Kumar,Senior Manager (Branch Head),SERVICE BRANCH - REWA,9454129705,san1976tosh@gmail.com
+Ashish  Kumar,Asst Manager-Dy. Branch Head,FARIDPUR,7870296005,ashishkumar425411@gmail.com
+Ashish Kumar  Patel,Chief Manager(RLP Incharge),RLP BHOPAL CENTRAL,9918301677,ashishkpatel@unionbankofindia.bank
+Meena  Rawat,Senior Manager-Dy. Branch Head,RAJAJINAGAR- DR RAJ KUMAR ROAD,8884129252,meena.rawat1@gmail.com
+Ashish  Kumar,Senior Manager(RM),RO - RAIPUR,8144092216,asheeshkumar@unionbankofindia.bank
+Dhirendra Kumar  Ram,Chief Manager,CENTRAL OFFICE,7030165252,rdkumar@unionbankofindia.bank
+Himanshu B  Patkar,Senior Manager,CoE Sales and Marketing Bhopal,8226012266,hpatkar@unionbankofindia.bank
+Abhinav  Khajuria,Senior Manager (Branch Head),BILGA (DIST. JULLUNDER),7006429166,akhajuriya@unionbankofindia.bank
+Dhiraj Chandra  Dhir,AGM (MLP Head),MLP DELHI NCR,7818090882,dhirajcdhir@unionbankofindia.bank
+Nilmani  Prasad,Senior Manager,CENTRAL OFFICE,7762084111,nilmaniprasad@unionbankofindia.bank
+Ratnesh Kumar  Singh,DRH - Business Operations,RO - AYODHYA,9569667575,skr483473@gmail.com
+Gayatri  Acharya,Chief Manager,RO - SRIKAKULAM,9078082082,gacharya@unionbankofindia.bank
+Sumeet  Joshi,Senior Manager (Branch Head),BHAMASHAH MANDI,9649900132,sumeetjoshi@unionbankofindia.bank
+Karthikeyan  N.,Senior Manager (Branch Head),BANGALORE-SARAKKI LAYOUT,9500763875,nkarthikeyan@unionbankofindia.bank
+P.  Subbiah,Senior Manager (Branch Head),PALAYAMKOTTAI-BRANCH,9445948355,vetriind@gmail.com
+Maruthy  Yellapragada,Chief Manager(RLP Incharge),RLP 2 SECUNDERABAD,9963335664,ymaruthy@unionbankofindia.bank
+Shreekanta  Panigrahi,Chief Manager,ZO BHUBANESHWAR,7750037923,spanigrahi@unionbankofindia.bank
+Sanjeev  Joshi,Senior Manager (Branch Head),HALDAUR,9760645427,click2sanjeev@gmail.com
+Arvind Kumar  Sharma,Chief Manager,RO - UDUPI,9997464555,arvindkumar.sharma@unionbankofindia.bank
+Ranjit  Ranjit,Chief Manager,CoE Credit & Policy -Lucknow,9430620740,rkranjan@unionbankofindia.bank
+Vijender  Singh,Senior Manager (Branch Head),HISSAR,9416440844,vijenderpilania@gmail.com
+Sandeep Salil  Kullu,Senior Manager (Branch Head),CHAKRADHARPUR,9431701725,sskullu@unionbankofindia.bank
+Navnish  Kamboj,Chief Manager,RO - KARNAL,6280073817,nkamboj@unionbankofindia.bank
+Sachin  Trivedi,Senior Manager,RO - LUCKNOW,9918702091,sachintrivedi@unionbankofindia.bank
+Jnanendra Kumar  Mahakhuda,Senior Manager,RLP BHUBANESHWAR,7894403079,jmahakuda@gmail.com
+Anjali  Kumari,Manager (Marketing),RO - PATNA,9801385696,anjalikumari@unionbankofindia.bank
+Makrand  Fadnis,Chief Manager,RO - AMRAVATI,9987628591,makrandfadnis@unionbankofindia.bank
+Sanjay Kumar  Singh,Chief Manager (Branch Head),GREATER NOIDA,9650125560,sanjay.singhunion@gmail.com
+Prabhat Kumar  Ambastha,Chief Manager,CENTRAL OFFICE,7400162950,prabhat.ambastha@unionbankofindia.bank
+Manish  Kumar,Senior Manager (Branch Head),Kadamkuan- Patna,7903506477,manishsingh490@gmail.com
+Amit  Kumar,DRH - Business Development,RO - AYODHYA,7007630016,amitsri.ubi@gmail.com
+Krishna Sharan  Jha,Manager,RO - RANCHI,9955187300,krishna3280@yahoo.co.in
+Surender  Saharan,Senior Manager,ZAO JAIPUR,9712925132,449827@unionbankofindia.bank
+K.J.  Rejeesh,Manager (Branch Head),NILAMBUR,7760051765,rejeeshkj@gmail.com
+Swati  Nema,Senior Manager,VISHRANTWADI -PUNE,9421738009,swatinema@unionbankofindia.bank
+Sushmit  Roy,SM (BH-Currency Chest),CURRENCY CHEST C G ROAD AHM,9765020025,sushmitroy@unionbankofindia.bank
+Manjit Singh  Dang,Senior Manager(RM),RO - AGRA,8859017700,msdang@unionbankofindia.bank
+Ajit Kumar  Sharma,Senior Manager,RO - GUNTUR,8840676923,ajitksharma@unionbankofindia.bank
+Preeti  Chavan,Chief Manager,ZO PUNE,9768769640,punecamp@unionbankofindia.bank
+Sowmya  Sridhar,GM-Dy. ZONAL HEAD,ZO MUMBAI,9869771105,sowmyasridhar@unionbankofindia.bank
+Vikas Shyam  Gupta,Chief Manager (Branch Head),"GURUKUL ROAD, BIJAPUR",9999743755,VIKAS.GUPTA9@YAHOO.COM
+Ranjan  Kumar,Senior Manager,CO ANNEX MANGALORE,9004085277,ranjanskumar@unionbankofindia.bank
+Chandramani  Ballabh,Chief Manager (Branch Head),HOWRAH,9771944402,cballabh@unionbankofindia.bank
+Gulab Singh Sikarwar  Sikarwar,Manager-Dy. Branch Head,RAJKOT (PBB),9424457920,gssikarwar60@gmail.com
+Kumar  Harshman,Senior Manager (ZCO),ZO RANCHI,9102404190,kumarharshman@gmail.com
+Binty Kumari  Choudhary,Senior Manager (Branch Head),JAYANAGAR MAIN,9845763147,binty42@gmail.com
+Sanjeev  Kumar,Senior Manager(RM),RO - BHOPAL CENTRAL,7389949918,sanjeevnkumar@unionbankofindia.bank
+Nanda  Somkuwar,Chief Manager,CENTRAL OFFICE,9029396292,nanda@unionbankofindia.bank
+Pabitra  Behera,SENIOR MANAGER(RCoC),RO - RAYAGADA,8917468968,pabitra1402@gmail.com
+Vijaykumar Shrichand  Ahuja,Senior Manager,ZO MUMBAI,9769977131,vsahuja@unionbankofindia.bank
+Kanchan  Chakrabarty,Manager,BURDWAN PRABIRHATA,8016098539,kanchan.chakroborty2009@gmail.com
+Sumit  Srivastava,GM - Zonal Head,ZO LUCKNOW,9867863754,sumitsrivastava@unionbankofindia.bank
+Sandip  Biswas,Senior Manager,RO - GREATER KOLKATA,9918301493,sandip.biswas@unionbankofindia.bank
+Ashish Kumar  Debta,Chief Manager(RLP Incharge),RLP MEHSANA,9918672874,pmo.varanasi@unionbankofindia.bank
+Akhilesh  Kumar,Senior Manager (Branch Head),NOIDA-SUMITRA HOSPITAL,9555900195,akhilkumar0086@gmail.com
+Uday Bhaskar  Das,SM(Risk Management),CENTRAL OFFICE,9987018592,udaybdas@unionbankofindia.bank
+Harin Kumar  Jani,Chief Manager,RO - KOLHAPUR,8008705091,hkjani@unionbankofindia.bank
+Rohit  Gupta,Senior Manager,PATEL NAGAR - NEW DELHI,9918900263,rohitgupta@unionbankofindia.bank
+Kanchan  Modak,Asst Manager,PUNE UMFB,9869067636,vaish28011983@gmail.com
+Roopesh  Madhwani,Chief Manager,CR Cell CHANDIGARH,9888478959,rmadhwani@unionbankofindia.bank
+Mahesh Chandra  Pant,Senior Manager (Branch Head),SHYAMPUR,9909939297,mpant12345@gmail.com

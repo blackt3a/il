@@ -191,7 +191,9 @@ def main(rules,person_info):
 
     timestamp = time.strftime("%Y%m%d%H%M%S",localT)
 
-    rules = psk_rules(rules_file=rules,person_file=person_info,save_file="/opt/tools/il/out/"+timestamp+".txt")
+    #rules = psk_rules(rules_file=rules,person_file=person_info,save_file="/opt/tools/il/out/"+timestamp+".txt")
+    #change the output filename
+    rules = psk_rules(rules_file=rules,person_file=person_info,save_file="/opt/tools/il/out/"+person_info[:-5]+".txt")
     rules._result.get_result()
     
 

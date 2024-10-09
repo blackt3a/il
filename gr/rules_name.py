@@ -181,7 +181,7 @@ class rules_name:
 
 if __name__ == "__main__":
     #print(rules_name("./rules.json").return_name())
-    for root,dirs,files in os.walk("./rules"):
+    for root,dirs,files in os.walk("../rules"):
         #print(files)
         prefix = root
         print(prefix)
